@@ -19,3 +19,12 @@ Ficha: 3381732
 - Evidencia: Lista de chequeo y formato de auditoría diligenciados, incluyendo las observaciones detectadas durante la revisión.
 - Impedimentos: Durante el análisis se encontraron algunas descripciones poco precisas que podían generar diferentes interpretaciones al momento de evaluar.
 - Plan: Registrar con mayor claridad las observaciones y comunicar los ajustes que permitan que la información cumpla con los criterios definidos.
+
+## ID 3
+- Fecha: 06/08/2026
+- Hora: 3:30 PM - 4:45 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Ejecución de los resultados obtenidos en la auditoría y elaboración del informe de hallazgos, diferenciando los aspectos que cumplían y aquellos que requerían mejora.
+- Evidencia: Informe de auditoría terminado junto con la matriz de hallazgos y las recomendaciones correspondientes.
+- Impedimentos: No se presentaron problemas técnicos durante esta etapa. La principal tarea fue ordenar los resultados para que fueran fáciles de comprender y explicar.
+- Plan: Revisar el informe final y preparar una explicación clara de los hallazgos para la actividad de socialización.
