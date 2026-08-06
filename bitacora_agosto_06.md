@@ -28,3 +28,12 @@ Ficha: 3381732
 - Evidencia: Informe de auditoría terminado junto con la matriz de hallazgos y las recomendaciones correspondientes.
 - Impedimentos: No se presentaron problemas técnicos durante esta etapa. La principal tarea fue ordenar los resultados para que fueran fáciles de comprender y explicar.
 - Plan: Revisar el informe final y preparar una explicación clara de los hallazgos para la actividad de socialización.
+
+## ID 4
+- Fecha: 06/08/2026
+- Hora: 4:45 PM - 6:30 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Preparación y participación en la actividad de socialización de los resultados de la auditoría, considerando la posibilidad de ser seleccionada para presentar el trabajo realizado.
+- Evidencia: Registro de la actividad de formación y preparación de los puntos principales de la exposición.
+- Impedimentos: Se realizó la sustentación de las actividades realizadas en el aula.
+- Plan: Conservar preparada la exposición y realizar la sustentación en la siguiente sesión cuando se retome la actividad.
