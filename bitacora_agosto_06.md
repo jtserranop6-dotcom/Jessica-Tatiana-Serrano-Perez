@@ -10,3 +10,12 @@ Ficha: 3381732
 - Evidencia: Ingreso a Classroom, revisión de la guía y reconocimiento de las instrucciones de la actividad.
 - Impedimentos: La revisión inicial se realizó con normalidad y no se presentaron dificultades que impidieran comenzar el trabajo.
 - Plan: Comenzar el diligenciamiento de la lista de chequeo, revisando punto por punto las indicaciones establecidas.
+
+## ID 2
+- Fecha: 06/08/2026
+- Hora: 1:46 PM - 3:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Aplicación de la auditoría a la bitácora y a la guía de trabajo de un aprendiz, utilizando la lista de chequeo para comprobar el cumplimiento de los aspectos solicitados.
+- Evidencia: Lista de chequeo y formato de auditoría diligenciados, incluyendo las observaciones detectadas durante la revisión.
+- Impedimentos: Durante el análisis se encontraron algunas descripciones poco precisas que podían generar diferentes interpretaciones al momento de evaluar.
+- Plan: Registrar con mayor claridad las observaciones y comunicar los ajustes que permitan que la información cumpla con los criterios definidos.
