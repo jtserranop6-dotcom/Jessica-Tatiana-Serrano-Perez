@@ -33,3 +33,11 @@ Ficha: 3381732
 - Actividad: Realización de la solución de una pregunta sobre cómo nos sentiríamos al trabajar sin poder depender de la vista.
 - Impedimentos: Sin impedimentos operativos
 - Plan: Completar la reflexión sobre las dificultades de realizar actividades sin depender de la vista y relacionarla con la búsqueda de alternativas accesibles.
+
+## ID 5
+- Fecha: 13/08/2026
+- Hora: 3:45 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Realización de un mapa mental de las personas de las cuales nos hablaron los compañeros en la socialización.
+- Impedimentos: Sin impedimentos operativos
+- Plan: Organizar el mapa mental con las ideas principales de las personas presentadas en la socialización y verificar que la información quede clara y relacionada.
