@@ -25,3 +25,11 @@ Ficha: 3381732
 - Actividad: Trabajo en grupo y socialización con los compañeros sobre una persona discapacitada que logra hacer trabajos técnicos o artísticos.
 - Impedimentos: Sin impedimentos operativos
 - Plan: Organizar las conclusiones de la socialización y relacionarlas con la importancia de la inclusión, dejando registradas las ideas principales para las siguientes actividades.
+
+## ID 4
+- Fecha: 13/08/2026
+- Hora: 2:45 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Realización de la solución de una pregunta sobre cómo nos sentiríamos al trabajar sin poder depender de la vista.
+- Impedimentos: Sin impedimentos operativos
+- Plan: Completar la reflexión sobre las dificultades de realizar actividades sin depender de la vista y relacionarla con la búsqueda de alternativas accesibles.
