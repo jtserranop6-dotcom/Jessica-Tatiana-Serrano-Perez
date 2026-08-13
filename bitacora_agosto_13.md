@@ -41,3 +41,11 @@ Ficha: 3381732
 - Actividad: Realización de un mapa mental de las personas de las cuales nos hablaron los compañeros en la socialización.
 - Impedimentos: Sin impedimentos operativos
 - Plan: Organizar el mapa mental con las ideas principales de las personas presentadas en la socialización y verificar que la información quede clara y relacionada.
+
+## ID 6
+- Fecha: 13/08/2026
+- Hora: 4:30 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Desarrollo de un cuadro que se debía completar con la información encontrada en la terminal al poner un código específico.
+- Impedimentos: Sin impedimentos operativos
+- Plan: Revisar la información obtenida mediante el código en la terminal, completar el cuadro solicitado y comprobar que los datos registrados correspondan con los resultados observados.
