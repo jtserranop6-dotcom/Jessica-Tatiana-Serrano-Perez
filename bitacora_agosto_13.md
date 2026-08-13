@@ -17,3 +17,11 @@ Ficha: 3381732
 - Actividad: Lectura y análisis de la actividad guía terminal.
 - Impedimentos: Sin impedimentos operativos
 - Plan: Continuar con la lectura de la guía de terminal, completar la información solicitada y practicar los comandos revisados para comprobar su funcionamiento.
+
+## ID 3
+- Fecha: 13/08/2026
+- Hora: 2:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Trabajo en grupo y socialización con los compañeros sobre una persona discapacitada que logra hacer trabajos técnicos o artísticos.
+- Impedimentos: Sin impedimentos operativos
+- Plan: Organizar las conclusiones de la socialización y relacionarlas con la importancia de la inclusión, dejando registradas las ideas principales para las siguientes actividades.
