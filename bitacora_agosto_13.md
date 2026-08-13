@@ -49,3 +49,11 @@ Ficha: 3381732
 - Actividad: Desarrollo de un cuadro que se debía completar con la información encontrada en la terminal al poner un código específico.
 - Impedimentos: Sin impedimentos operativos
 - Plan: Revisar la información obtenida mediante el código en la terminal, completar el cuadro solicitado y comprobar que los datos registrados correspondan con los resultados observados.
+
+## ID 7
+- Fecha: 13/08/2026
+- Hora: 4:30 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Finalización del diligenciamiento del cuadro y continuación con la ejecución del código en la terminal para validar su funcionamiento.
+- Impedimentos: Sin impedimentos operativos
+- Plan: Finalizar el registro de la actividad pendiente, revisar que la trazabilidad esté completa y dejar preparados los datos necesarios para continuar con la siguiente actividad.
