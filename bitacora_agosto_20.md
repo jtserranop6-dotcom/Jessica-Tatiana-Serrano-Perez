@@ -46,3 +46,12 @@ Ficha: 3381732
 - Evidencia: No aplica (receso).
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Regresar a las actividades previstas después del descanso y avanzar con los ejercicios que quedaron pendientes.
+
+## ID 6
+- Fecha: 20/08/2026
+- Hora: 3:30 PM - 4:15 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Continuación del laboratorio de CLI mediante la práctica de comandos para recorrer y organizar archivos y carpetas desde la terminal.
+- Evidencia: Comandos ejecutados en la terminal durante la continuación del laboratorio.
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Terminar las prácticas restantes, comprobar los resultados generados y registrar el soporte de la estructura final de archivos y directorios.
