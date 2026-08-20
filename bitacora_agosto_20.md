@@ -64,3 +64,12 @@ Ficha: 3381732
 - Evidencia: Registro de participación en Kahoot y asignación de exposición.
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Organizar la exposición asignada y repasar los temas relacionados con la actividad para fortalecer lo aprendido.
+
+## ID 8
+- Fecha: 20/08/2026
+- Hora: 4:55 PM - 5:40 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Desarrollo de la actividad de transferencia de conocimiento indicada en la guía, realizando el ejercicio práctico y aplicando los contenidos trabajados durante la formación.
+- Evidencia: Ejercicio práctico de transferencia finalizado.
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Revisar el resultado del ejercicio, completar cualquier tarea pendiente y registrar el soporte correspondiente en la Bitácora Técnica.
