@@ -37,3 +37,12 @@ Ficha: 3381732
 - Evidencia: Revisión de las infografías del material de apoyo.
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Continuar estudiando el material de apoyo y desarrollar el quiz o evaluación asignada.
+
+## ID 5
+- Fecha: 20/08/2026
+- Hora: 2:10 PM - 3:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Desplazamiento al área de audiovisuales y realización del descanso programado dentro de la jornada de formación.
+- Evidencia: No aplica (receso).
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Regresar a las actividades previstas después del descanso y avanzar con los ejercicios que quedaron pendientes.
