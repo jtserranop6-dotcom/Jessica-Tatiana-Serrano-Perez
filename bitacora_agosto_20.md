@@ -28,3 +28,12 @@ Ficha: 3381732
 - Evidencia: Estructura de archivos y directorios generada en la práctica de laboratorio.
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Seguir con las prácticas del laboratorio, revisar la organización de los archivos creados y dejar registrados los resultados.
+
+## ID 4
+- Fecha: 20/08/2026
+- Hora: 2:00 PM - 2:10 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Revisión de contenidos visuales: refuerzo de conceptos esenciales para la preparación del quiz.
+- Evidencia: Revisión de las infografías del material de apoyo.
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Continuar estudiando el material de apoyo y desarrollar el quiz o evaluación asignada.
