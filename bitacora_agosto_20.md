@@ -10,3 +10,12 @@ Ficha: 3381732
 - Evidencia: Revisión de la guía de bitácora técnica y del material introductorio de CLI.
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Usar las indicaciones de la Bitácora Técnica para documentar las prácticas de CLI y continuar con las actividades previstas en la guía.
+
+## ID 2
+- Fecha: 20/08/2026
+- Hora: 1:00 PM - 1:30 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se completó la actividad 3.3, la cual consistió en poner en práctica el manejo de la terminal y la ejecución de instrucciones a través de la interfaz de comandos, siguiendo las pautas de la guía.
+- Evidencia: Ejecución de comandos en la terminal según la actividad 3.3.
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Completar lo pendiente, comprobar los resultados obtenidos en la terminal y añadir el soporte correspondiente en la bitácora.
