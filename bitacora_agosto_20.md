@@ -55,3 +55,12 @@ Ficha: 3381732
 - Evidencia: Comandos ejecutados en la terminal durante la continuación del laboratorio.
 - Impedimentos: No se presentaron impedimentos operativos.
 - Plan: Terminar las prácticas restantes, comprobar los resultados generados y registrar el soporte de la estructura final de archivos y directorios.
+
+## ID 7
+- Fecha: 20/08/2026
+- Hora: 4:15 PM - 4:55 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Participación en una dinámica de Kahoot para reforzar los temas vistos durante la jornada, junto con la actividad de reconocimiento y asignación de una exposición.
+- Evidencia: Registro de participación en Kahoot y asignación de exposición.
+- Impedimentos: No se presentaron impedimentos operativos.
+- Plan: Organizar la exposición asignada y repasar los temas relacionados con la actividad para fortalecer lo aprendido.
