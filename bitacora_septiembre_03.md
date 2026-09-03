@@ -65,3 +65,11 @@ Ficha: 3381732
 - Actividad: Se completó el reto "Colisión en el Multiverso" de la guía de Git: se crearon ramas, se modificaron archivos, se ejecutó un merge y se atendieron los conflictos generados entre las versiones.
 - Impedimentos: Se presentaron algunas dificultades para solucionar el conflicto generado al unir las ramas.
 - Plan: Reforzar el manejo de ramas, merge y resolución de conflictos en Git.
+
+## ID 9
+- Fecha: 05/09/2026
+- Hora: 3:49 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se continuó con el desarrollo de las actividades de la guía de aprendizaje y la práctica de los contenidos trabajados.
+- Impedimentos: No se registraron inconvenientes durante el desarrollo de la actividad.
+- Plan: Continuar con las actividades programadas de la guía.
