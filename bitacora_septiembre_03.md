@@ -57,3 +57,11 @@ Ficha: 3381732
 - Actividad: Se presentó la actividad de apropiación sobre ramas en Git, explicando cómo crear, cambiar, unir y eliminar ramas utilizando los comandos vistos durante la guía.
 - Impedimentos: No se presentaron inconvenientes durante la socialización.
 - Plan: Seguir practicando la creación, manejo y fusión de ramas.
+
+## ID 8
+- Fecha: 04/09/2026
+- Hora: 5:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se completó el reto "Colisión en el Multiverso" de la guía de Git: se crearon ramas, se modificaron archivos, se ejecutó un merge y se atendieron los conflictos generados entre las versiones.
+- Impedimentos: Se presentaron algunas dificultades para solucionar el conflicto generado al unir las ramas.
+- Plan: Reforzar el manejo de ramas, merge y resolución de conflictos en Git.
