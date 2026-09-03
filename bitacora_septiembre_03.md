@@ -25,3 +25,11 @@ Ficha: 3381732
 - Actividad: Utilización de un fragmento audiovisual de la serie Loki como recurso didáctico para explicar los principios de Git: control de versiones, cambios y seguimiento de estados.
 - Impedimentos: No se registraron problemas durante la actividad.
 - Plan: Seguir practicando los comandos y conceptos básicos de Git.
+
+## ID 4
+- Fecha: 03/09/2026
+- Hora: 2:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se instaló y configuró Git según las pautas de la guía, preparando de esta manera el entorno de trabajo.
+- Impedimentos: No se presentaron inconvenientes en la instalación ni en la configuración inicial.
+- Plan: Continuar con la práctica de Git y sus comandos.
