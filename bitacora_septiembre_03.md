@@ -49,3 +49,11 @@ Ficha: 3381732
 - Actividad: Se desarrolló la actividad "Tu Primer Viaje en el Tiempo" de la guía de Git, creando un repositorio, incorporando archivos y realizando el primer commit mediante los comandos correspondientes.
 - Impedimentos: La actividad se realizó sin dificultades operativas.
 - Plan: Continuar realizando ejercicios de Git.
+
+## ID 7
+- Fecha: 03/09/2026
+- Hora: 4:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se presentó la actividad de apropiación sobre ramas en Git, explicando cómo crear, cambiar, unir y eliminar ramas utilizando los comandos vistos durante la guía.
+- Impedimentos: No se presentaron inconvenientes durante la socialización.
+- Plan: Seguir practicando la creación, manejo y fusión de ramas.
