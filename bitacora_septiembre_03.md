@@ -17,3 +17,11 @@ Ficha: 3381732
 - Actividad: Revisión de la guía de aprendizaje de Git: análisis de conceptos fundamentales, funciones y aplicación práctica en el control de versiones.
 - Impedimentos: La actividad se desarrolló sin inconvenientes.
 - Plan: Avanzar con las siguientes actividades de la guía.
+
+## ID 3
+- Fecha: 03/09/2026
+- Hora: 1:20 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Utilización de un fragmento audiovisual de la serie Loki como recurso didáctico para explicar los principios de Git: control de versiones, cambios y seguimiento de estados.
+- Impedimentos: No se registraron problemas durante la actividad.
+- Plan: Seguir practicando los comandos y conceptos básicos de Git.
