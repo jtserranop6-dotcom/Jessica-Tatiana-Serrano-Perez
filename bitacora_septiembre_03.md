@@ -41,3 +41,11 @@ Ficha: 3381732
 - Actividad: Se practicó en la terminal con comandos básicos de Git y se configuraron el nombre de usuario (user.name) y el correo (user.email) para asociar correctamente los cambios realizados en los repositorios.
 - Impedimentos: Surgieron algunas dudas al ejecutar determinados comandos y al interpretar el proceso de control de versiones.
 - Plan: Reforzar la práctica de comandos y el manejo de versiones.
+
+## ID 6
+- Fecha: 03/09/2026
+- Hora: 2:50 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se desarrolló la actividad "Tu Primer Viaje en el Tiempo" de la guía de Git, creando un repositorio, incorporando archivos y realizando el primer commit mediante los comandos correspondientes.
+- Impedimentos: La actividad se realizó sin dificultades operativas.
+- Plan: Continuar realizando ejercicios de Git.
