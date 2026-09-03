@@ -33,3 +33,11 @@ Ficha: 3381732
 - Actividad: Se instaló y configuró Git según las pautas de la guía, preparando de esta manera el entorno de trabajo.
 - Impedimentos: No se presentaron inconvenientes en la instalación ni en la configuración inicial.
 - Plan: Continuar con la práctica de Git y sus comandos.
+
+## ID 5
+- Fecha: 03/09/2026
+- Hora: 2:20 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se practicó en la terminal con comandos básicos de Git y se configuraron el nombre de usuario (user.name) y el correo (user.email) para asociar correctamente los cambios realizados en los repositorios.
+- Impedimentos: Surgieron algunas dudas al ejecutar determinados comandos y al interpretar el proceso de control de versiones.
+- Plan: Reforzar la práctica de comandos y el manejo de versiones.
