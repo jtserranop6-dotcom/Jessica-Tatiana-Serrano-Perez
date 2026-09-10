@@ -25,3 +25,11 @@ Ficha: 3381732
 - Actividad: Se presentó la nueva guía sobre commits. Se revisaron sus instrucciones, conceptos principales y las actividades que se deben desarrollar posteriormente.
 - Impedimentos: La actividad se completó sin problemas técnicos.
 - Plan: Repasar la guía y dejar listo el entorno para practicar commits, historial y seguimiento de cambios.
+
+## ID 4
+- Fecha: 10/09/2026
+- Hora: 5:20 PM - 6:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Se comenzó la actividad 3.2 de contextualización sobre Git. Se explicó el inicio de un repositorio y el manejo de ramas de trabajo y temporales mediante ejemplos.
+- Impedimentos: No se presentaron inconvenientes durante la explicación.
+- Plan: Practicar la creación y manejo de ramas y diferenciar los comandos utilizados para trabajar con ellas.
