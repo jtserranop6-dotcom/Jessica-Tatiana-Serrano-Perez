@@ -21,3 +21,14 @@ Ficha: 3381732
   git config --global user.email "jtserranop6@gmail.com"
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Ubicar la unidad D: y la carpeta de trabajo adso.
+
+## ID 003
+- Fecha: 17/09/2026
+- Hora: 2:40 PM - 2:46 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Cambio a la unidad D: y listado de su contenido para identificar la carpeta adso.
+- Comandos ejecutados:
+  cd D:
+  ls
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Entrar a /d/adso y crear la carpeta del ejercicio.
