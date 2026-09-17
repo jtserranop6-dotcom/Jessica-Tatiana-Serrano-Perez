@@ -32,3 +32,18 @@ Ficha: 3381732
   ls
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Entrar a /d/adso y crear la carpeta del ejercicio.
+
+## ID 004
+- Fecha: 17/09/2026
+- Hora: 2:46 PM - 2:53 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Ingreso a /d/adso y a la subcarpeta 3381732 (el prompt muestra la rama (main), por lo que esa carpeta ya era un repositorio); regreso a /d/adso, creación del directorio pasado-y-presente, listado de verificación e ingreso al directorio.
+- Comandos ejecutados:
+  cd adso
+  cd 3381732
+  cd ..
+  mkdir pasado-y-presente
+  ls
+  cd pasado-y-presente
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Inicializar el repositorio dentro de pasado-y-presente.
