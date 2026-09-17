@@ -74,3 +74,16 @@ Ficha: 3381732
   git commit -m "commit 2: inicial en develop"
 - Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
 - Plan: Crear la rama feature/nombre desde develop.
+
+## ID 007
+- Fecha: 17/09/2026
+- Hora: 3:08 PM - 3:16 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Creación de la rama feature/nombre desde develop. Creación del archivo feature.js y commit 3df1265 en feature/nombre.
+- Comandos ejecutados:
+  git checkout -b feature/nombre
+  echo "console.log('feature iniciada');" > feature.js
+  git add .
+  git commit -m "commit 3: inicial en feature/nombre"
+- Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
+- Plan: Agregar un segundo commit en feature/nombre.
