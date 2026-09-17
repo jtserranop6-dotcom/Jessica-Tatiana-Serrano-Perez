@@ -158,3 +158,14 @@ Ficha: 3381732
   git commit -m "fix: traer README.md del pasado al presente"
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Confirmar el contenido de README.md y revisar el historial.
+
+## ID 014
+- Fecha: 17/09/2026
+- Hora: 4:00 PM - 4:08 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Verificación: README.md contiene únicamente "# Pasado y Presente". El grafo muestra dce17ce (HEAD -> main) sobre ec57c8f; develop y feature/nombre aún no están fusionadas en main.
+- Comandos ejecutados:
+  cat README.md
+  git log --oneline --graph --all
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Fusionar feature/nombre en develop, tal como indica el diagrama del tablero.
