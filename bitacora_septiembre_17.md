@@ -47,3 +47,17 @@ Ficha: 3381732
   cd pasado-y-presente
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Inicializar el repositorio dentro de pasado-y-presente.
+
+## ID 005
+- Fecha: 17/09/2026
+- Hora: 2:53 PM - 3:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Inicialización del repositorio en D:/ADSO/pasado-y-presente/.git/. Creación de README.md con el título del proyecto y primer commit (root-commit e6524fc) en la rama main.
+- Comandos ejecutados:
+  git init
+  echo "# Pasado y Presente" > README.md
+  git add .
+  git commit -m "commit 1: inicial en main"
+- Evidencia: Captura de terminal Git Bash - trabajo_jessica_serrano.docx
+- Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
+- Plan: Crear la rama develop a partir de main.
