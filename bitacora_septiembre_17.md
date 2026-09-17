@@ -61,3 +61,16 @@ Ficha: 3381732
 - Evidencia: Captura de terminal Git Bash - trabajo_jessica_serrano.docx
 - Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
 - Plan: Crear la rama develop a partir de main.
+
+## ID 006
+- Fecha: 17/09/2026
+- Hora: 3:00 PM - 3:08 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Creación de la rama develop y cambio a ella con checkout -b. Creación del archivo develop.js y commit 42c8da6 en develop.
+- Comandos ejecutados:
+  git checkout -b develop
+  echo "console.log('develop iniciado');" > develop.js
+  git add .
+  git commit -m "commit 2: inicial en develop"
+- Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
+- Plan: Crear la rama feature/nombre desde develop.
