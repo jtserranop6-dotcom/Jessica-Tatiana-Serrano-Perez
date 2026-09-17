@@ -135,3 +135,14 @@ Ficha: 3381732
   git log --oneline --graph --all
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Obtener el hash del primer commit para recuperar README.md de esa versión.
+
+## ID 012
+- Fecha: 17/09/2026
+- Hora: 3:45 PM - 3:52 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Almacenamiento en la variable HASH_VIEJO del hash del commit más antiguo: git log --oneline lista del más reciente al más antiguo, tail -1 toma la última línea y awk imprime su primer campo. Valor obtenido: e6524fc.
+- Comandos ejecutados:
+  HASH_VIEJO=$(git log --oneline | tail -1 | awk '{print $1}')
+  echo "Trayendo README.md desde el commit: $HASH_VIEJO"
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Restaurar README.md desde ese commit y registrar el cambio.
