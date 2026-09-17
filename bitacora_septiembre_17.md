@@ -169,3 +169,15 @@ Ficha: 3381732
   git log --oneline --graph --all
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Fusionar feature/nombre en develop, tal como indica el diagrama del tablero.
+
+## ID 015
+- Fecha: 17/09/2026
+- Hora: 4:08 PM - 4:18 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Complemento del flujo del tablero (feature -> develop). Cambio a develop y fusión de feature/nombre. Como develop avanzó con su commit 5 después de crear la rama feature, Git generó el merge commit 53b5fe6 (estrategia ort) en lugar de fast-forward; se incorporó feature.js (2 líneas).
+- Comandos ejecutados:
+  git checkout develop
+  git merge feature/nombre -m "merge: integrar feature/nombre en develop"
+  git log --oneline --graph --all
+- Impedimentos: Sin impedimentos operativos. No hubo conflictos: cada rama modificó archivos distintos (develop.js y feature.js).
+- Plan: Fusionar develop en main.
