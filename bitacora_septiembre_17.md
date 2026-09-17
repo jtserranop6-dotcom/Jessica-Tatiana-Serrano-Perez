@@ -193,3 +193,15 @@ Ficha: 3381732
   git log --oneline --graph --all
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Verificar ramas, estado del árbol de trabajo y archivos finales.
+
+## ID 017
+- Fecha: 17/09/2026
+- Hora: 4:28 PM - 4:35 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Verificación final: ramas existentes (develop, feature/nombre y main con * de rama activa), árbol de trabajo sin cambios pendientes y archivos presentes en el directorio (README.md, develop.js, feature.js).
+- Comandos ejecutados:
+  git branch
+  git status
+  ls
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Entregar la bitácora y las capturas al instructor.
