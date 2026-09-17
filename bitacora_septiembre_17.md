@@ -112,3 +112,16 @@ Ficha: 3381732
   git commit -m "commit 5: mas trabajo en develop"
 - Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
 - Plan: Cambiar a main y registrar un commit en esa rama.
+
+## ID 010
+- Fecha: 17/09/2026
+- Hora: 3:30 PM - 3:38 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Cambio a main, adición de una línea a README.md y commit ec57c8f. Las tres ramas tienen commits que las otras no contienen.
+- Comandos ejecutados:
+  git checkout main
+  echo "console.log('mas trabajo en main');" >> README.md
+  git add .
+  git commit -m "commit 6: mas trabajo en main"
+- Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
+- Plan: Consultar el historial gráfico de todas las ramas.
