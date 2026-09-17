@@ -146,3 +146,15 @@ Ficha: 3381732
   echo "Trayendo README.md desde el commit: $HASH_VIEJO"
 - Impedimentos: Sin impedimentos operativos.
 - Plan: Restaurar README.md desde ese commit y registrar el cambio.
+
+## ID 013
+- Fecha: 17/09/2026
+- Hora: 3:52 PM - 4:00 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Restauración de README.md a la versión del commit e6524fc dentro de main (descarta la línea agregada en el commit 6) y commit dce17ce (1 archivo modificado, 1 línea eliminada).
+- Comandos ejecutados:
+  git checkout $HASH_VIEJO -- README.md
+  git add README.md
+  git commit -m "fix: traer README.md del pasado al presente"
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Confirmar el contenido de README.md y revisar el historial.
