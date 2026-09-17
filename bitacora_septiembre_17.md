@@ -99,3 +99,16 @@ Ficha: 3381732
   git commit -m "commit 4: mas trabajo en feature"
 - Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
 - Plan: Cambiar a develop y registrar un commit propio de esa rama.
+
+## ID 009
+- Fecha: 17/09/2026
+- Hora: 3:22 PM - 3:30 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Cambio a develop con git checkout, adición de una línea a develop.js y commit 16bc944. Con este commit develop y feature/nombre quedan en líneas de historial distintas.
+- Comandos ejecutados:
+  git checkout develop
+  echo "console.log('mas trabajo en develop');" >> develop.js
+  git add .
+  git commit -m "commit 5: mas trabajo en develop"
+- Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
+- Plan: Cambiar a main y registrar un commit en esa rama.
