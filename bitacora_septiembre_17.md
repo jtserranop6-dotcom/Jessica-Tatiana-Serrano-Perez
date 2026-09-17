@@ -125,3 +125,13 @@ Ficha: 3381732
   git commit -m "commit 6: mas trabajo en main"
 - Impedimentos: Sin impedimentos operativos. Git emitió la advertencia informativa "LF will be replaced by CRLF" al ejecutar git add; no interrumpió el comando.
 - Plan: Consultar el historial gráfico de todas las ramas.
+
+## ID 011
+- Fecha: 17/09/2026
+- Hora: 3:38 PM - 3:45 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Consulta del historial de todas las ramas en formato de grafo. Resultado: main en ec57c8f (HEAD), develop en 16bc944 y feature/nombre en 904d6b5; develop y feature/nombre salen del commit 42c8da6 y main continúa desde e6524fc.
+- Comandos ejecutados:
+  git log --oneline --graph --all
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Obtener el hash del primer commit para recuperar README.md de esa versión.
