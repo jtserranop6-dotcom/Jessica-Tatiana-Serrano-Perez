@@ -181,3 +181,15 @@ Ficha: 3381732
   git log --oneline --graph --all
 - Impedimentos: Sin impedimentos operativos. No hubo conflictos: cada rama modificó archivos distintos (develop.js y feature.js).
 - Plan: Fusionar develop en main.
+
+## ID 016
+- Fecha: 17/09/2026
+- Hora: 4:18 PM - 4:28 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: Complemento del flujo del tablero (develop -> main). Cambio a main y fusión de develop; se incorporaron develop.js y feature.js (2 archivos, 4 inserciones). Merge commit d8fb50e generado con estrategia ort, sin conflictos porque README.md solo cambió en main.
+- Comandos ejecutados:
+  git checkout main
+  git merge develop -m "merge: integrar develop en main"
+  git log --oneline --graph --all
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Verificar ramas, estado del árbol de trabajo y archivos finales.
