@@ -1,0 +1,11 @@
+# Bitácora Septiembre - Semana 4 (24/09/2026)
+Autora: Jessica Tatiana Serrano Pérez
+Ficha: 3381732
+
+## ID 1
+- Fecha: 24/09/2026
+- Hora: 1:03 PM
+- Autora: Jessica Tatiana Serrano Pérez
+- Actividad: El estudiante Sebastián Agredo pasa al computador del instructor a hablarnos de cómo él hizo la actividad asignada para desarrollar en casa sobre Git: regreso en el tiempo, en la terminal.
+- Impedimentos: Sin impedimentos operativos.
+- Plan: Continuar con la exposición de otro estudiante sobre el paso de la bitácora a Git.
